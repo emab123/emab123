@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Eric Bliesener 🚀</h1>
 
-- 🎓 I'm studying Aerospace Engineering at Universidade Federal de Santa Catarina, Joinville.
+- 🎓 I'm studying Aerospace Engineering at the Federal University of Santa Catarina, Joinville.
 - 👯 I’m looking to collaborate on some aerospace software projects.
 - 💬 Ask me about 3D Printers, Drones, Rockets and Microcontrolers.
 - 📫 You can reach me at eric.bliesener@gmail.com.
